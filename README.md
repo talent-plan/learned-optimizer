@@ -21,6 +21,8 @@ The details of classroom usage can be found in the [classroom doc](docs/classroo
 
 If you don't use [GitHub classroom](https://classroom.github.com/), just fork this repo, work in your repo, you will not have a score.
 
+The Assignment Link: https://classroom.github.com/a/ZQQePYT5.
+
 The course only grades lab1-3, but lab4 will also be automatically evaluated when you push to your repo.
 
 ### Getting started

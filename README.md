@@ -1,8 +1,8 @@
-# VLDB Summer School 2022
+# Learned Optimizer
 
 ## Introduction
 
-This is the labs of VLDB Summer School 2022, which contains some experiments about learning-based optimizer.
+This is the labs of Learned Optimizer, which contains some experiments about learning-based optimizer.
 
 ## Labs
 
@@ -19,8 +19,6 @@ You need to fill some missing code in order to complete these labs.
 
 The details of classroom usage can be found in the [classroom doc](docs/classroom.md).
 
-The Assignment link is 'https://classroom.github.com/a/6StbajGD'
-
 If you don't use [GitHub classroom](https://classroom.github.com/), just fork this repo, work in your repo, you will not have a score.
 
 The course only grades lab1-3, but lab4 will also be automatically evaluated when you push to your repo.
@@ -28,10 +26,6 @@ The course only grades lab1-3, but lab4 will also be automatically evaluated whe
 ### Getting started
 
 First, please study the[classroom doc](docs/classroom.md) and clone the repository with git to get the source code of the project.
-
-``` bash
-git clone https://github.com/vldbss-2022/vldbss2022-{{username}}.git
-```
 
 Then make sure you have installed [python](https://www.python.org/downloads/) toolchains. 
 
